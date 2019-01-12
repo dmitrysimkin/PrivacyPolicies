@@ -17,6 +17,8 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 *   [Firebase Analytics](https://firebase.google.com/policies/analytics)
+*   [Appodeal](https://www.appodeal.com/home/privacy-policy/)
+
 
 **Log Data**
 
